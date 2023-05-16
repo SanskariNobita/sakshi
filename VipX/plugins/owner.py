@@ -17,13 +17,13 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
     & ~filters.edited & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://graph.org/file/fad8614e77b0c540fb320.jpg",
-        caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐃𝐌❤️𝐎𝐖𝐍𝐄𝐑🍁""",
+        photo=f"https://te.legra.ph/file/d1ffe1f9581591beea3d7.jpg",
+        caption=f"""➳ 𝐂ℓι¢к 𝐓ᴏ 𝐎ɯɳҽɾ's 𝐃ᴍ ✰""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🌹 𝐆𝐎𝐃𝐅𝐀𝐓𝐇𝐄𝐑 🌹", url=f"https://t.me/your_godfather_xd")
+                        "⏤͟͞<♦️𓆩|• 𝐒 𝐀 𝐍 𝐒 𝐊 𝐀 𝐑 𝐈 ꭙ 𝐁 𝐎 𝐘 •|𓆪🍁", url=f"https://t.me/Teri_gf_mere_phan")
                 ]
             ]
         ),
@@ -35,13 +35,13 @@ async def help(client: Client, message: Message):
     & ~filters.edited & filters.private & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://graph.org/file/fad8614e77b0c540fb320.jpg",
-        caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐃𝐌❤️𝐎𝐖𝐍𝐄𝐑🍁""",
+        photo=f"https://te.legra.ph/file/d1ffe1f9581591beea3d7.jpg",
+        caption=f"""➳ 𝐂ℓι¢к 𝐓ᴏ 𝐎ɯɳҽɾ's 𝐃ᴍ ✰""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🌹 𝐆𝐎𝐃𝐅𝐀𝐓𝐇𝐄𝐑 🌹", url=f"https://t.me/your_godfather_xd")
+                        "⏤͟͞<♦️𓆩|• 𝐒 𝐀 𝐍 𝐒 𝐊 𝐀 𝐑 𝐈 ꭙ 𝐁 𝐎 𝐘 •|𓆪🍁", url=f"https://t.me/Teri_gf_mere_phan")
                 ]
             ]
         ),
@@ -58,13 +58,13 @@ async def help(client: Client, message: Message):
     & ~filters.edited & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://graph.org/file/b0a7019e8d6e1dc993ffc.jpg",
-        caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐆𝐄𝐓🌱𝐑𝐄𝐏𝐎🍁""",
+        photo=f"https://te.legra.ph/file/d1ffe1f9581591beea3d7.jpg",
+        caption=f"""➳ 𝐂ℓι¢к 𝐓ᴏ 𝐎ɯɳҽɾ's 𝐃ᴍ ✰""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/SANA_SUPPORTS")
+                        "🍁 𝐒ᴏᴜʀᴄᴇ 🍁", url=f"https://t.me/ABOUT_NOBITA_XD")
                 ]
             ]
         ),
@@ -76,13 +76,13 @@ async def help(client: Client, message: Message):
     & ~filters.edited & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://graph.org/file/b0a7019e8d6e1dc993ffc.jpg",
-        caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐆𝐄𝐓🌱𝐑𝐄𝐏𝐎🍁""",
+        photo=f"https://te.legra.ph/file/d1ffe1f9581591beea3d7.jpg",
+        caption=f"""➳ 𝐂ℓι¢к 𝐓ᴏ 𝐎ɯɳҽɾ's 𝐃ᴍ ✰""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/SANA_SUPPORTS")
+                        "🍁 𝐒ᴏᴜʀᴄᴇ 🍁", url=f"https://t.me/ABOUT_NOBITA_XD")
                 ]
             ]
         ),
@@ -94,13 +94,13 @@ async def help(client: Client, message: Message):
     & ~filters.edited & filters.private & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://graph.org/file/b0a7019e8d6e1dc993ffc.jpg",
-        caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐆𝐄𝐓🌱𝐑𝐄𝐏𝐎🍁""",
+        photo=f"https://te.legra.ph/file/d1ffe1f9581591beea3d7.jpg",
+        caption=f"""➳ 𝐂ℓι¢к 𝐓ᴏ 𝐎ɯɳҽɾ's 𝐃ᴍ ✰""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/SANA_SUPPORTS")
+                        "🍁 𝐒ᴏᴜʀᴄᴇ 🍁", url=f"https://t.me/ABOUT_NOBITA_XD")
                 ]
             ]
         ),
